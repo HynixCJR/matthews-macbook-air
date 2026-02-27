@@ -7,8 +7,7 @@ featuring:
 - a sketchy 8-bay sata backplane i found on aliexpress
 
 this is what the case looks like:
-![3d model of my NAS case][photo]
-[photo]: "https://github.com/HynixCJR/matthews-macbook-air/server.png"
+![3d model of my server case](server.png)
 
 ---
 
