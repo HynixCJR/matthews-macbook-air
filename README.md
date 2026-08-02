@@ -2,7 +2,7 @@
 these are the SOLIDWORKS files for the first revision of my home server case. though i never got around to fully 3d-printing this case, it should still be 3d-printable.
 
 > For my second revision of this case (sheet metal, 2U rack mounted 12-bay HDD, with a custom backplane) visit this link:
-> https://github.com/HynixCJR/serverv2_backplane
+> https://github.com/HynixCJR/LZ-1-Backplane
 
 featuring:
 - a motherboard and daughterboard that I extracted from an old [dell inspiron 5505](https://www.dell.com/support/manuals/en-ca/inspiron-15-5505-laptop/inspiron-15-5505-setup-and-specifications/processor?guid=guid-b426df85-6237-4365-b1fc-c3bb6e190257&lang=en-us)
